@@ -167,8 +167,3 @@ The embedding model (`~90MB`) and reranker model (`~70MB`) are downloaded once t
 **JSON parse errors from the LLM**
 The generator includes a fallback slide when the model returns malformed JSON. Try rephrasing the question or using a larger Ollama model (e.g. `qwen2.5:7b`).
 
----
-
-## 📄 Future work
-
-
